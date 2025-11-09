@@ -1,6 +1,0 @@
-^ABC^*^XYZ^
-^HELLO^*^WORLD^
-^A^*^B^
-^BAD*^INPUT^
-^^ABC^^*^XYZ^
-ABC*XYZ
